@@ -1,0 +1,136 @@
+
+fieldset{
+   background-color: rgba(0, 0, 0, 0.514);
+   color: black;
+}
+nav{
+    padding: 2px;
+
+}
+a{
+    color: cornsilk;
+    font-weight: 30px;
+    padding: 4px;
+    
+}
+a:hover{
+    color: darkgreen;
+    
+}
+#tags a{
+    text-decoration: none;
+
+}
+body{
+    background-color: rgba(0, 0, 0, 0.637);
+}
+img{
+    box-sizing: initial;
+}
+table{
+    box-sizing: border-box;
+    table-layout: fixed;
+    width: 800px;
+    margin-top: 30px ;
+    padding: 20px;
+    text-align: center;
+    margin-left: 20%;
+    color: black;
+    border-collapse: collapse;
+    border-color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.74);
+
+}
+th,td{
+    font-size: 30px;
+    font-family:Lucida Handwriting;
+    color:antiquewhite;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: Lucida Handwriting;
+    color:white;
+    text-decoration: solid;
+    
+}
+h1:hover{
+    cursor: pointer;
+    color:darkslategray ;
+}
+table:hover{
+    cursor: pointer;
+    color: blue;
+}
+h2{
+  text-align:left;
+    font-size: 30px;
+    font-family: Lucida Handwriting;
+    color:white;
+    text-decoration: solid;
+}
+h2:hover{
+  cursor: pointer;
+    color:darkslategray ;
+}
+p{
+    font-size: 30px;
+    font-family:	Brush Script MT ;
+    color: antiquewhite;
+
+}
+.table{
+    background-image: url("images/backt.jpg");
+    background-repeat: repeat-x;
+}
+.pa{
+    background-image: url("images/shubh.jpg") ;
+    padding: 10px;
+    
+}
+img:hover{
+    cursor: pointer;
+}
+.dp{
+  width: 100%;
+  length: 50%;
+border: 5px solid;
+padding: 5px;
+margin: 2px;
+
+background-image: url("images/shubh.jpg");
+
+}
+#prof{
+float: left;
+padding: 10px;
+border: solid black 2px;
+border-radius: 100px;
+
+}
+#founderp{
+    margin-left: 5px;
+}
+.ok:hover{
+    border: solid black 1px;
+    border-radius: 30px;
+    transition: 2s;
+
+}
+.tad:hover{
+    border-radius: 30%;
+    
+}
+
+#foot li{
+    display: inline-block;
+    list-style: none;
+    
+}
+#foot li a{
+    text-decoration: none;
+    padding: 15px;
+
+}
+
+
